@@ -44,4 +44,10 @@ docker compose down
 ## Captures d'écran
 ![docker compose ps](screenshots/compose-ps.png)
 ![client](screenshots/client.png)
-![api](screenshots/api.png)
+
+## Docker Hub
+- Image serveur : https://hub.docker.com/r/sarah428/mern-server
+- Image client : https://hub.docker.com/r/sarah428/mern-client
+## Docker Desktop
+![conteneur](screenshots/docker-desktop-conteneur.png)
+![images](screenshots/docker-desktop-images.png)
